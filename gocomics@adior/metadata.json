@@ -1,0 +1,7 @@
+{
+  "uuid": "gocomics@adior",
+  "name": "GoComics Viewer",
+  "description": "Displays today's GoComics strip by comic name",
+  "version": "1.0",
+  "max-instances": 1
+}

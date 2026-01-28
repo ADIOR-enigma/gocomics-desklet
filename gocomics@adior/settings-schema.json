@@ -1,0 +1,16 @@
+{
+  "comicName": {
+    "type": "entry",
+    "default": "heathcliff",
+    "description": "GoComics comic name"
+  },
+
+  "maxWidth": {
+    "type": "spinbutton",
+    "default": 600,
+    "min": 200,
+    "max": 2000,
+    "step": 50,
+    "description": "Maximum comic width (px)"
+  }
+}
